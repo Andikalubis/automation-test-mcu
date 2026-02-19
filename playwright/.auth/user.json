@@ -1,0 +1,29 @@
+{
+  "cookies": [
+    {
+      "name": "auth-token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NzE1MDcyMTIsImlhdCI6MTc3MTUwNTQxMiwicm9sZSI6IlJMMDAxIiwic3ViIjoiM2U1YzE3OWItZGRiZC00NTc0LWFlYjEtMGFjNWE1OTI2YTdjIiwidHlwZSI6ImFjY2VzcyJ9.ry3AFuT7LyJWPOaFMypwU2krfam5i4SWTArZrJUiDJg",
+      "domain": "localhost",
+      "path": "/",
+      "expires": 1771591812.702975,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "http://localhost:3000",
+      "localStorage": [
+        {
+          "name": "theme",
+          "value": "light"
+        },
+        {
+          "name": "auth-storage",
+          "value": "{\"state\":{\"accessToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NzE1MDcyMTIsImlhdCI6MTc3MTUwNTQxMiwicm9sZSI6IlJMMDAxIiwic3ViIjoiM2U1YzE3OWItZGRiZC00NTc0LWFlYjEtMGFjNWE1OTI2YTdjIiwidHlwZSI6ImFjY2VzcyJ9.ry3AFuT7LyJWPOaFMypwU2krfam5i4SWTArZrJUiDJg\",\"user\":{\"id\":1,\"uid\":\"3e5c179b-ddbd-4574-aeb1-0ac5a5926a7c\",\"name\":\"admin\",\"username\":\"admin@gmail.com\",\"role_id\":0,\"role_code\":\"RL001\",\"user_profile\":{\"id\":1,\"uid\":\"c6bdce3f-b5ab-4919-b741-b08b93665cf3\",\"code\":\"USP802363\",\"name\":\"Admin Profile\"},\"company\":{\"id\":1,\"uid\":\"70178d5f-d77f-4ae2-b588-8a0226c245b2\",\"name\":\"Puskesmas Sehat Sentosa\",\"is_company\":true,\"service_start_date\":\"2026-01-03T00:00:00Z\",\"service_end_date\":\"2027-01-02T00:00:00Z\",\"is_service_active\":true,\"status\":\"ACTIVE\",\"company_type\":{\"type_id\":1,\"type_uid\":\"2035d911-08c4-41f3-8b4e-cf91a5cb2906\",\"type_code\":\"\",\"type_name\":\"Personal\"}}},\"isAuthenticated\":true},\"version\":1}"
+        }
+      ]
+    }
+  ]
+}
